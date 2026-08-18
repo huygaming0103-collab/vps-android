@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://husband-sin-resort-significantly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://strand-survival-cover-immunology.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-18 15:46:32 UTC
+Created   : 2026-08-18 20:39:33 UTC
 =======================================================
